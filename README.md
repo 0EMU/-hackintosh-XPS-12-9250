@@ -5,8 +5,8 @@ Current bootloader version OpenCore 0.8.0 Release
 
 unTested on Dell XPS 9250
 
-4K touch display / intel ac 8260
-core m5-6y54 / Intel HD 515
+4K touch display / intel ac 8260 /
+core m5-6y54 / Intel HD 515 /
 8GB RAM
 
 How to install
